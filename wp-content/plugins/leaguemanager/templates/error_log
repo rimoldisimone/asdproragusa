@@ -1,0 +1,3 @@
+[10-Oct-2013 07:07:58 Europe/Berlin] PHP Fatal error:  Call to undefined function get_permalink() in /home/axqabqtw/public_html/wp-content/plugins/leaguemanager/templates/archive.php on line 16
+[12-Oct-2013 10:19:20 Europe/Berlin] PHP Fatal error:  Call to undefined function _e() in /home/axqabqtw/public_html/wp-content/plugins/leaguemanager/templates/championship.php on line 15
+[12-Oct-2013 14:33:47 Europe/Berlin] PHP Fatal error:  Call to undefined function get_permalink() in /home/axqabqtw/public_html/wp-content/plugins/leaguemanager/templates/archive-tennis.php on line 15

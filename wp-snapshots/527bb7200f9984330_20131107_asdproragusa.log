@@ -1,0 +1,77 @@
+******************************************************************************** 
+PACKAGE-LOG: 04:52:00 
+NOTICE: Do not post to public sites or forums 
+******************************************************************************** 
+duplicator: 0.4.6 
+wordpress: 3.6.1 
+php: 5.3.27 
+php sapi: litespeed 
+server: LiteSpeed 
+browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.114 Safari/537.36 
+package name: 20131107_asdproragusa 
+php_max_time: set from=300 to=5000 
+php_max_memory: Unabled to set php memory_limit 
+mysql wait_timeout:5000 
+recorded table id: 3 
+******************************************************************************** 
+BUILD SQL SCRIPT: 
+******************************************************************************** 
+wp_aec_event (34) 
+wp_aec_event_category (5) 
+wp_commentmeta (191) 
+wp_comments (0) 
+wp_duplicator (3) 
+wp_lambda_like_post (1) 
+wp_lambda_sliders (2) 
+wp_lambda_tables (0) 
+wp_leaguemanager_leagues (2) 
+wp_leaguemanager_matches (188) 
+wp_leaguemanager_stats (11) 
+wp_leaguemanager_teams (21) 
+wp_links (1) 
+wp_nevada_option_tree (119) 
+wp_ngg_album (0) 
+wp_ngg_gallery (1) 
+wp_ngg_pictures (6) 
+wp_options (431) 
+wp_postmeta (703) 
+wp_posts (1125) 
+wp_projectmanager_dataset (0) 
+wp_projectmanager_datasetmeta (0) 
+wp_projectmanager_projectmeta (0) 
+wp_projectmanager_projects (0) 
+wp_revslider_settings (0) 
+wp_revslider_sliders (2) 
+wp_revslider_slides (2) 
+wp_term_relationships (56) 
+wp_term_taxonomy (10) 
+wp_terms (9) 
+wp_usermeta (223) 
+wp_users (5) 
+SQL CREATED: /home/axqabqtw/public_html/wp-snapshots/527bb7200f9984330_20131107_asdproragusa_database.sql 
+SQL FILE SIZE: 3.51MB 
+SQL RUNTIME: 4.1868 sec. 
+******************************************************************************** 
+BUILD ZIP PACKAGE: 
+******************************************************************************** 
+PACKAGE DIR:  /home/axqabqtw/public_html 
+PACKAGE FILE: /home/axqabqtw/public_html/wp-snapshots/527bb7200f9984330_20131107_asdproragusa_package.zip 
+FILTER EXTENSIONS:  '' 
+FILTER DIRECTORIES: '' 
+---------------------------------------- 
+STARTING PACKAGE BUILD 
+ADDED=>SQL: /home/axqabqtw/public_html/wp-snapshots/527bb7200f9984330_20131107_asdproragusa_database.sql 
+BUILDING FILE LIST 
+FILE LIST COMPLETE: 2.8836 sec. 
+FILE LIST STATS: Dirs 976 | Files 9191 | Links 0 |  
+
+PACKAGE INFO: ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10168
+    [filename] => /home/axqabqtw/public_html/wp-snapshots/527bb7200f9984330_20131107_asdproragusa_package.zip
+    [comment] => 
+)
+ 
+CREATING PACKAGE 
