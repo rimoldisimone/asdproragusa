@@ -40,19 +40,19 @@ define('DB_NAME', 'axqabqtw_wp1');
 
 /** MySQL database username */
 
-define('DB_USER', 'axqabqtw_online');
+define('DB_USER', 'jeremy');
 
 
 
 /** MySQL database password */
 
-define('DB_PASSWORD', 'yr[^s-Ks[g4J');
+define('DB_PASSWORD', 'FYKTXVQv');
 
 
 
 /** MySQL hostname */
 
-define('DB_HOST', 'mysql.netsons.com');
+define('DB_HOST', 'tunnel.pagodabox.com');
 
 
 
