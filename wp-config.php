@@ -44,7 +44,7 @@ define('DB_USER', 'jeremy');
 
 
 
-/** MySQL database password */
+/** MySQL database password test */
 
 define('DB_PASSWORD', 'FYKTXVQv');
 
