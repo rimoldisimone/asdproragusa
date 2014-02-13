@@ -1,0 +1,10 @@
+web1:
+    name: asdproragusa
+    php_extensions: 
+        – mcrypt
+        - mysqli
+        - mysql
+        - mbstring
+    db1:
+        name: asdproragusa          
+        type: mysql
