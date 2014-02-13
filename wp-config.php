@@ -52,7 +52,7 @@ define('DB_PASSWORD', 'FYKTXVQv');
 
 /** MySQL hostname */
 
-define('DB_HOST', 'tunnel.pagodabox.com');
+define('DB_HOST', 'tunnel.pagodabox.com:3306');
 
 
 
